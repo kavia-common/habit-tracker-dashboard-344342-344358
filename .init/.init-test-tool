@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/habit-tracker-dashboard-344342-344358/habit_tracker_frontend"
+}
